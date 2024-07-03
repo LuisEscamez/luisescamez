@@ -1,7 +1,7 @@
 # ![https://github.com/LuisEscamez](https://raw.githubusercontent.com/LuisEscamez/luisescamez/main/luisescamez_icon.png) Hi, I'm Luís! 👋
 
 ### Glad to see you here!  
-I'm an iOS Senior Developer with over five years of experience in developing mobile applications for iOS devices.
+I'm an iOS Senior Developer from <img src="https://www.flaticon.com/free-icon/spain_197593?term=spain&page=1&position=1&origin=search&related_id=197593" width="13"/> <b>Almeria, Spain</b>, currently living in <img src="https://www.flaticon.com/free-icon/spain_197593?term=spain&page=1&position=1&origin=search&related_id=197593" width="13"/> <b>Malaga, Spain</b> with over five years of experience in developing mobile applications for iOS devices.
 
 I have extensive experience working on numerous projects, predominantly for banking entities, utilizing patherns such as MVVM, MVP, and Clean Architecture.
 
